@@ -1,6 +1,6 @@
 [submodule "tracker"]
 	path = tracker
-	url = https://github.com/BrATdev/donation-tracker.git
+	url = https://github.com/g-v/donation-tracker.git
 [submodule "tracker_ui"]
 	path = tracker_ui
 	url = https://github.com/BrATdev/donation-tracker-ui.git
